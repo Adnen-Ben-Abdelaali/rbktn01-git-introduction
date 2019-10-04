@@ -8,17 +8,33 @@ When you have answered all the questions, commit and push to your repository.
 
 1. Who is your favorite super hero?
 
+-> Batman .
+
+
 2. What is one interesting thing about you?
+
+->aware of how stupid I am .
+
 
 3. What animal is your spirit animal?
 
+->Deer
+
 4. What is your favorite food?
+
+->Eggs
 
 5. What is your favorite beverage?
 
+->Cocacola
+
 6. What is your favorite national park or landmark?
 
+->Nahli park
+
 7. What is your favorite movie?
+
+->Slumdog Millionaire
 
 ### Advanced Content:
 
